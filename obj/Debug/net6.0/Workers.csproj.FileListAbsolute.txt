@@ -1,0 +1,15 @@
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\bin\Debug\net6.0\Workers.exe
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\bin\Debug\net6.0\Workers.deps.json
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\bin\Debug\net6.0\Workers.runtimeconfig.json
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\bin\Debug\net6.0\Workers.dll
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\bin\Debug\net6.0\Workers.pdb
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\obj\Debug\net6.0\Workers.csproj.AssemblyReference.cache
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\obj\Debug\net6.0\Workers.GeneratedMSBuildEditorConfig.editorconfig
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\obj\Debug\net6.0\Workers.AssemblyInfoInputs.cache
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\obj\Debug\net6.0\Workers.AssemblyInfo.cs
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\obj\Debug\net6.0\Workers.csproj.CoreCompileInputs.cache
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\obj\Debug\net6.0\Workers.dll
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\obj\Debug\net6.0\refint\Workers.dll
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\obj\Debug\net6.0\Workers.pdb
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\obj\Debug\net6.0\Workers.genruntimeconfig.cache
+c:\MeusProgramas\Udemy\C# Completo\Workers\Workers\obj\Debug\net6.0\ref\Workers.dll
