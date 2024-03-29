@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "c:\\MeusProgramas\\Udemy\\C# Completo\\Workers\\Workers\\Workers.csproj": {}
+    "C:\\Meus Programas\\Back\\udemy\\worker_csharp\\Worker_CSharp\\Workers.csproj": {}
   },
   "projects": {
-    "c:\\MeusProgramas\\Udemy\\C# Completo\\Workers\\Workers\\Workers.csproj": {
+    "C:\\Meus Programas\\Back\\udemy\\worker_csharp\\Worker_CSharp\\Workers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\MeusProgramas\\Udemy\\C# Completo\\Workers\\Workers\\Workers.csproj",
+        "projectUniqueName": "C:\\Meus Programas\\Back\\udemy\\worker_csharp\\Worker_CSharp\\Workers.csproj",
         "projectName": "Workers",
-        "projectPath": "c:\\MeusProgramas\\Udemy\\C# Completo\\Workers\\Workers\\Workers.csproj",
-        "packagesPath": "C:\\Users\\mi212\\.nuget\\packages\\",
-        "outputPath": "c:\\MeusProgramas\\Udemy\\C# Completo\\Workers\\Workers\\obj\\",
+        "projectPath": "C:\\Meus Programas\\Back\\udemy\\worker_csharp\\Worker_CSharp\\Workers.csproj",
+        "packagesPath": "C:\\Users\\Deivid.Willian\\.nuget\\packages\\",
+        "outputPath": "C:\\Meus Programas\\Back\\udemy\\worker_csharp\\Worker_CSharp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mi212\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Deivid.Willian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/qyon-brazil/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

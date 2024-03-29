@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UJVdQ/EftwTKUaXQouwhn+CQ3WdUdyU497gKmGD0NqAmohJ57lc/BPNXikNgKsqmeLVCcoN5bkFelBDeOb9RlA==",
+  "dgSpecHash": "z+puLUqRKJ7dWx7eMQ5n+0vADzOil3Mgh8QLMkS7ShKk9Yh4qE9FS5hNSyfK5/eB25IWL742ud61ivlq3XSKCg==",
   "success": true,
-  "projectFilePath": "c:\\MeusProgramas\\Udemy\\C# Completo\\Workers\\Workers\\Workers.csproj",
+  "projectFilePath": "C:\\Meus Programas\\Back\\udemy\\worker_csharp\\Worker_CSharp\\Workers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
